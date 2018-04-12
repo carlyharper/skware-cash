@@ -1,3 +1,5 @@
+console.log('script loaded');
+
 function renderTransactions(transactions) {
 	var finalHTML = '<div class="buffer">TRANSACTIONS</div>';
 
